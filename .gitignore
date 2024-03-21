@@ -2,3 +2,7 @@
 .vscode
 build
 .aptos
+
+.DS_Store
+
+idea/
